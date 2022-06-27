@@ -1,2 +1,2 @@
 # BasicProg_DataViz65
-รวบรวมงานวิชา SC663401 : Basic Programming for Data Science and Data Visualization ของ ธนพงศ์ อินทระ
+รวบรวมงานวิชา SC663401 : Basic Programming for Data Science and Data Visualization ของ ดุสดี เกิดปั้น 633020441-7
