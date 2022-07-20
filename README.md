@@ -1,7 +1,7 @@
 # BasicProg_DataViz65
 รวบรวมงานวิชา SC663401 : Basic Programming for Data Science and Data Visualization ของ ดุสดี เกิดปั้น 633020441-7
 
-# Grading
+# grading image
 ![grading image] (Grading.jpg)
 
 #  สมาชิกในกลุ่ม
