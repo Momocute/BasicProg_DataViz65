@@ -2,7 +2,7 @@
 รวบรวมงานวิชา SC663401 : Basic Programming for Data Science and Data Visualization ของ ดุสดี เกิดปั้น 633020441-7
 
 #Grading
-![grading image image] (Grading.jpg)
+![gradingimage image] (Grading.jpg)
 
 #  สมาชิกในกลุ่ม กลุ่ม Midterm ชื่อ PPA
 1. นางสาวดุสดี เกิดปั้น 633020441-7
