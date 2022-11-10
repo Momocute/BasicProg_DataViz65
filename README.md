@@ -18,10 +18,10 @@
 # Presentation
 * [Canva](https://www.canva.com/design/DAFRbwM82ss/fdjLijjXYDrZ0W02nAyhug/view?utm_content=DAFRbwM82ss&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-# colab
+# Data 
 * [colab](https://colab.research.google.com/drive/1y2aFleTepOQEIpv1P7qIe4Y9qdVmLlFj?usp=sharing)
 
-# dashboard
+# Google Data Studio
 * [dashboard](https://datastudio.google.com/reporting/6074990c-53a8-4485-a203-5020f570c4ad)
 
 # สมาชิกกลุ่ม final
