@@ -15,8 +15,8 @@
 3. นางสาวอรัญญา จันทษี 633021028-0
 
 
-#slide
+# slide
 https://www.canva.com/design/DAFRbwM82ss/fdjLijjXYDrZ0W02nAyhug/view?utm_content=DAFRbwM82ss&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
-#colab
+# colab
 https://colab.research.google.com/drive/1y2aFleTepOQEIpv1P7qIe4Y9qdVmLlFj?usp=sharing
